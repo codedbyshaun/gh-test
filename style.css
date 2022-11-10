@@ -7,3 +7,8 @@ h1 {
   color: aquamarine;
   font-size: 18px;
 }
+
+p {
+  color: white;
+  text-transform: capitalize;
+}
