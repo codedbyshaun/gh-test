@@ -16,3 +16,7 @@ p {
   color: white;
   text-transform: capitalize;
 }
+
+li {
+  text-decoration: none;
+}
