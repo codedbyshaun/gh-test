@@ -20,3 +20,8 @@ p {
 li {
   text-decoration: none;
 }
+
+img-container {
+  height: 80px;
+  width: 40px;
+}
