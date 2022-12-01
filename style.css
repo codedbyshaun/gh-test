@@ -36,3 +36,9 @@ plant-container-cart {
   width: auto;
   height: 100vh;
 }
+
+nav {
+  display:flex;
+  justify-content: center;
+}
+
