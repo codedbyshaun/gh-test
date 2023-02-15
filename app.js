@@ -9,7 +9,6 @@ const ChatContainer = () => {
             </div>
 
         <MatchesDisplay />
-
             <ChatDisplay />
         </div>
     )
