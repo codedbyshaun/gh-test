@@ -7,3 +7,12 @@ const ChatContainer = () => {
                 <button className="option">Matches</button>
                 <button className="option">Chat</button>
             </div>
+
+        <MatchesDisplay />
+
+            <ChatDisplay />
+        </div>
+    )
+}
+
+export default ChatContainer
