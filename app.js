@@ -6,6 +6,7 @@ const ChatContainer = () => {
             <div>
                 <button className="option">Matches</button>
                 <button className="option">Chat</button>
+                <button className="option">Hi</button>
             </div>
         <MatchesDisplay />
             <ChatDisplay />
