@@ -8,6 +8,8 @@ const ChatContainer = () => {
         
         
                 <button className="option">Chat</button>
+        
+        
                 <button className="option">Hi</button>
                 <button className="option">About</button>
             </div>
