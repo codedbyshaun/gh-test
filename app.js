@@ -59,6 +59,7 @@ const App = () => {
       <img src={icon} alt="icon" className="w-[50%] h-[50%] object-contain" />
     </div>
     
+    
     <div className="flex-1 flex flex-col ml-3 ">
       <h4 className="font-poppins font-semibold text-white text-[18px] leading-[23px] mb-1">
         {title}
@@ -73,6 +74,7 @@ const App = () => {
 import { card } from "../assets"
 import styles, { layout } from "../style"
 import Button from "./Button"
+
 
 const CardDeal = () =>  (
     <section className={layout.section}>
